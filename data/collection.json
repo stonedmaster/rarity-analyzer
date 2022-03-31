@@ -178422,5 +178422,1235 @@
 				"value": "Bandet"
 			}
 		]
+	},
+	{
+		"name": "Apish Punks #4027",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4027.png",
+		"dna": "a03606f3c56a39326540b02886eb6816c1ab060a",
+		"edition": 4027,
+		"date": 1645802000747,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Steel Blue"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Friendly Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Suit"
+			},
+			{
+				"trait_type": "Face",
+				"value": "Star Tatoo"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Cigarette"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Locket"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Stud"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Glasses Yellow"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Messy Turquoise"
+			}
+		]
+	},
+	{
+		"name": "Apish Punks #4028",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4028.png",
+		"dna": "beff4a61516f60ee70748ebeb6a98bef132a70f6",
+		"edition": 4028,
+		"date": 1645801868747,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Steel Blue"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Friendly Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Sweatshirts"
+			},
+			{
+				"trait_type": "Face",
+				"value": "Scar"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Smile"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Stud"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Glasses Yellow"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Cap"
+			}
+		]
+	},
+	{
+		"name": "Apish Punks #4029",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4029.png",
+		"dna": "d74c7e671783b01aa8c0e86dcecc81a2eb35ef11",
+		"edition": 4029,
+		"date": 1645801861150,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Turquoise"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Ghost Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Sweatshirts"
+			},
+			{
+				"trait_type": "Face",
+				"value": "Scar"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Pink Baloon"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Stud"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Cyber Pink"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Top Hat Gray"
+			}
+		]
+	},
+	{
+		"name": "Apish Punks #4030",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4030.png",
+		"dna": "d60d8eac7f869d7a33718ae8e4e860fd58ad6eb2",
+		"edition": 4030,
+		"date": 1645801701523,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Steel Blue"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Friendly Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Sweatshirts"
+			},
+			{
+				"trait_type": "Face",
+				"value": "Star Tatoo"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Cigar"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Eye Mask"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Top Hat Red"
+			}
+		]
+	},
+	{
+		"name": "Apish Punks #4031",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4031.png",
+		"dna": "0188134501a9da67178029e795384e53407fa575",
+		"edition": 4031,
+		"date": 1645801869710,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Turquoise"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Friendly Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Sweatshirts"
+			},
+			{
+				"trait_type": "Face",
+				"value": "Scar"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Yellow Baloon"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Stud"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Glasses Blue"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Top Hat Gray"
+			}
+		]
+	},
+	{
+		"name": "Apish Punks #4032",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4032.png",
+		"dna": "3e41ff71b25eec0d636711f0f6a2ac54b85a4d0b",
+		"edition": 4032,
+		"date": 1645801772467,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Friendly Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Hoodie"
+			},
+			{
+				"trait_type": "Face",
+				"value": "Scar"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Cigarette"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Glasses Yellow"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Cowboy"
+			}
+		]
+	},
+	{
+		"name": "Apish Punks #4033",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4033.png",
+		"dna": "e6d21dbc3d4db3203704046fbe4fe17aaf83b1a1",
+		"edition": 4033,
+		"date": 1645801869519,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Alien Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Sweatshirts"
+			},
+			{
+				"trait_type": "Face",
+				"value": "Scar"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Cigarette Electric"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Stud"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Glasses Blue"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Messy Green"
+			}
+		]
+	},
+	{
+		"name": "Apish Punks #4034",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4034.png",
+		"dna": "a21d449528a2f2de65d785680b1f212acead04aa",
+		"edition": 4034,
+		"date": 1645801623842,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Pink"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Alien Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Sweatshirts"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Pipe"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Dark"
+			}
+		]
+	},
+	{
+		"name": "Apish Punks #4035",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4035.png",
+		"dna": "26b83e7e95a1b382fb9a6022d4a37aec2ef45187",
+		"edition": 4035,
+		"date": 1645801999199,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Tomato"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Friendly Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Hoodie"
+			},
+			{
+				"trait_type": "Face",
+				"value": "Beard"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Half Smile"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Locket"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Stud"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Gray"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Glasses Green"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Mohawk Yellow"
+			}
+		]
+	},
+	{
+		"name": "Apish Punks #4036",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4036.png",
+		"dna": "c8dd49090b2f25750a54a50a62654ff828a545b9",
+		"edition": 4036,
+		"date": 1645802037141,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Steel Blue"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Ghost Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Hoodie"
+			},
+			{
+				"trait_type": "Face",
+				"value": "Star Tatoo"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Half Smile"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Bib"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Stud"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Blue"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Glasses Pink"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Messy Green"
+			}
+		]
+	},
+	{
+		"name": "Apish Punks #4037",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4037.png",
+		"dna": "e10af1a0f8232b2971f4a839b2414ae6bfb6b370",
+		"edition": 4037,
+		"date": 1645801762488,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Steel Blue"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Zombie Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Suit"
+			},
+			{
+				"trait_type": "Face",
+				"value": "Star Tatoo"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Cigar"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Blue"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Cyber Blue"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Dreadlock Dark"
+			}
+		]
+	},
+	{
+		"name": "Apish Punks #4038",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4038.png",
+		"dna": "29468a7933beca22859bf8d4d6f50640391ed00b",
+		"edition": 4038,
+		"date": 1645801995596,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Beige"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Friendly Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Hoodie"
+			},
+			{
+				"trait_type": "Face",
+				"value": "Scar"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Cigarette Electric"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Bib"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Stud"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Glasses Green"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Vampire"
+			}
+		]
+	},
+	{
+		"name": "Apish Punks #4039",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4039.png",
+		"dna": "fa5519bed2c85dd94e2151196274994d3f11d04d",
+		"edition": 4039,
+		"date": 1645801854879,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Turquoise"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Zombie Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Sweatshirts"
+			},
+			{
+				"trait_type": "Face",
+				"value": "Star Tatoo"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Cigarette"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Stud"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Gray"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Glasses 3D"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Cap"
+			}
+		]
+	},
+	{
+		"name": "Apish Punks #4040",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4040.png",
+		"dna": "4153e1a1dae26dc7f2fd30570783f11f9b864c0d",
+		"edition": 4040,
+		"date": 1645802081239,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Khaki"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Friendly Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Sweatshirts"
+			},
+			{
+				"trait_type": "Face",
+				"value": "Beard"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Cigarette Electric"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Locket"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Dangle"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Gray"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Cyber Red"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Cap"
+			}
+		]
+	},
+	{
+		"name": "Apish Punks #4041",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4041.png",
+		"dna": "efb395c2444942580512098be7ec427f48e34416",
+		"edition": 4041,
+		"date": 1645801999008,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Tomato"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Friendly Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Hoodie"
+			},
+			{
+				"trait_type": "Face",
+				"value": "Star Tatoo"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Cigarette"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Locket"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Stud"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Blue"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Cyber Blue"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Messy Turquoise"
+			}
+		]
+	},
+	{
+		"name": "Apish Punks #4042",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4042.png",
+		"dna": "1d237d6787367f62d4d6c38741c3e82b340bbf4e",
+		"edition": 4042,
+		"date": 1645802041043,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Khaki"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Alien Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Sweatshirts"
+			},
+			{
+				"trait_type": "Face",
+				"value": "Star Tatoo"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Cigarette"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Bib"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Stud"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Cyber Red"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Dark"
+			}
+		]
+	},
+	{
+		"name": "Apish Punks #4043",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4043.png",
+		"dna": "847b12317af197ed9e81b06fa30989feefe13f73",
+		"edition": 4043,
+		"date": 1645801650335,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Pink"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Alien Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Hoodie"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Pipe"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Top Hat Red"
+			}
+		]
+	},
+	{
+		"name": "Apish Punks #4044",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4044.png",
+		"dna": "f481c59fccf87bac9393632b7fec9bd5806566eb",
+		"edition": 4044,
+		"date": 1645801631984,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Purple"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Ghost Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Hoodie"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Yellow Baloon"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Bowler"
+			}
+		]
+	},
+	{
+		"name": "Apish Punks #4045",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4045.png",
+		"dna": "e53f5073c75220978d72c8080c1cf3819b0d6ad7",
+		"edition": 4045,
+		"date": 1645801820580,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Beige"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Alien Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Sweatshirts"
+			},
+			{
+				"trait_type": "Face",
+				"value": "Scar"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Pink Baloon"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Stud"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Blue"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Cyber Blue"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Bandana"
+			}
+		]
+	},
+	{
+		"name": "Apish Punks #4046",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4046.png",
+		"dna": "090298d5377916c7d5617e690a022e8eb8200d86",
+		"edition": 4046,
+		"date": 1645801926992,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Golden"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Friendly Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Hoodie"
+			},
+			{
+				"trait_type": "Face",
+				"value": "Star Tatoo"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Cigarette"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Dangle"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Blue"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Glasses Pink"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Mohawk Pink"
+			}
+		]
+	},
+	{
+		"name": "Apish Punks #4047",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4047.png",
+		"dna": "e66b397d37095bf1b35f47735caa621e322ad5a4",
+		"edition": 4047,
+		"date": 1645802019587,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Turquoise"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Zombie Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Suit"
+			},
+			{
+				"trait_type": "Face",
+				"value": "Star Tatoo"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Half Smile"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Bib"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Stud"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Glasses Blue"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Mohawk Yellow"
+			}
+		]
+	},
+	{
+		"name": "Apish Punks #4048",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4048.png",
+		"dna": "d0ec8890fcc534e1144ab614c9bf6204b6109812",
+		"edition": 4048,
+		"date": 1645802084785,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Steel Blue"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Alien Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Sweatshirts"
+			},
+			{
+				"trait_type": "Face",
+				"value": "Star Tatoo"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Cigar"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Locket"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Stud"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Glasses Blue"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Messy Green"
+			}
+		]
+	},
+	{
+		"name": "Apish Punks #4049",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4049.png",
+		"dna": "0c511abb99be9c33b910f4376eab8d5f263eb476",
+		"edition": 4049,
+		"date": 1645801868328,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Steel Blue"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Friendly Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Suit"
+			},
+			{
+				"trait_type": "Face",
+				"value": "Scar"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Cigar"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Dangle"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Gray"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Eye Mask"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Messy Turquoise"
+			}
+		]
+	},
+	{
+		"name": "Apish Punks #4050",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4050.png",
+		"dna": "657ef82f6500ef8e9b5a89b2986a01426c373f1a",
+		"edition": 4050,
+		"date": 1645801966883,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Golden"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Zombie Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Suit"
+			},
+			{
+				"trait_type": "Face",
+				"value": "Star Tatoo"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Half Smile"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Locket"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Dangle"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Green"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Glasses Pink"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Mohawk Pink"
+			}
+		]
+	},
+	{
+		"name": "Apish Punks #4051",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4051.png",
+		"dna": "51f75f33027c5aac7b8ea71e494bb1887bab8ffd",
+		"edition": 4051,
+		"date": 1645801792735,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Tomato"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Zombie Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Sweatshirts"
+			},
+			{
+				"trait_type": "Face",
+				"value": "Star Tatoo"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Cigarette"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Stud"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Gray"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Glasses Pink"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Bowler"
+			}
+		]
+	},
+	{
+		"name": "Apish Punks #4052",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4052.png",
+		"dna": "0720bfb0f9f28f0a719060a54222812aa9acc7ae",
+		"edition": 4052,
+		"date": 1645802060509,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Turquoise"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Friendly Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Sweatshirts"
+			},
+			{
+				"trait_type": "Face",
+				"value": "Star Tatoo"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Half Smile"
+			},
+			{
+				"trait_type": "Necklace",
+				"value": "Bib"
+			},
+			{
+				"trait_type": "Earring",
+				"value": "Stud"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Eye Wear",
+				"value": "Glasses Green"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Messy Turquoise"
+			}
+		]
+	},
+	{
+		"name": "Apish Punks #4053",
+		"description": "Apish Punks a 10,000 unique collectible bullish ape punks with proof of ownership stored on the Telos blockchain.",
+		"image": "ipfs://QmanGrJbyouVAsnTXzrbU4gcdfBfHXwtMvMKaee8nLZ6GW/4053.png",
+		"dna": "a33fe1cb656c1a1839052acd47005898c3cac2fe",
+		"edition": 4053,
+		"date": 1645801656795,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Khaki"
+			},
+			{
+				"trait_type": "Ape",
+				"value": "Friendly Ape"
+			},
+			{
+				"trait_type": "Wear",
+				"value": "Sweatshirts"
+			},
+			{
+				"trait_type": "Face",
+				"value": "Star Tatoo"
+			},
+			{
+				"trait_type": "Mood",
+				"value": "Pink Baloon"
+			},
+			{
+				"trait_type": "Eye Color",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Cowboy"
+			}
+		]
 	}
 ]
