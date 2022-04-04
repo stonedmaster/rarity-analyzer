@@ -36,7 +36,7 @@ const RarityList = ({
 	};
 
 	const openToken = () => {
-		router.push(`/?viewId=${(tokenId - 1)}`, `/view/${(tokenId - 1)}`);
+		router.push(`/?viewId=${tokenId.valueOf() - 1}`, `/view/${tokenId.valueOf() - 1}`);
 	};
 
 	React.useEffect(() => {
