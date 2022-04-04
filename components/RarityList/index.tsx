@@ -36,7 +36,7 @@ const RarityList = ({
 	};
 
 	const openToken = () => {
-		router.push(`/?viewId=${tokenId -1}`, `/view/${tokenId -1}`);
+		router.push(`/?viewId=${tokenId}`, `/view/${tokenId}`);
 	};
 
 	React.useEffect(() => {
@@ -85,7 +85,7 @@ const RarityList = ({
 								placeholder="Search ID"
 								value={tokenId}
 								onKeyUp={(e: any) => e.key === "Enter" && openToken()}
-								onChange={(e) => setTokenId(e.target.value)}
+								onChange={(e) => setTokenId(e.target.value - 1)}
 								className="block w-full p-2 border border-gray-200 rounded form-input sm:text-sm sm:leading-5 bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-300 dark:border-gray-600"
 							/>
 						</div>
